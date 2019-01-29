@@ -8,14 +8,14 @@
     "reporting",
     "print",
     "reports",
-	"engine"
+    "engine"
   ],
   "author": "Nathanael Anderson <nathan@master-technology.com> (http://fluentreports.com/)",
   "contributors": [
     "Alan Henager <alan.henager@kellpro.com>",
     "Mark Getz <mark.getz@kellpro.com>",
     "Beau West <beau.west@kellpro.com>",
-	"Michael Keller <michael.keller@kellpro.com>",
+    "Michael Keller <michael.keller@kellpro.com>",
     "Marcus Christensson"
   ],
   "licenses": "MIT",
@@ -24,7 +24,7 @@
     "url": "http://github.com/Nathanaela/fluentreports/issues"
   },
   "dependencies": {
-    "pdfkit": "KellPro/pdfkit"
+    "pdfkit": "^0.9.0"
   },
   "repository": {
     "type": "git",
